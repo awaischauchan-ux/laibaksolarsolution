@@ -1,0 +1,6 @@
+{
+  "name": "Laibak Solar Solution",
+  "description": "Laibak Solar Solution by Engr. M. Awais Qarni in Arif Road 135/9-L, Sahiwal. Professional solar inverters, residential & commercial electrical contractor, 24/7 emergency service, and load calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
